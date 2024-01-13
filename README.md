@@ -1,3 +1,7 @@
+# What is this ?
+
+![Project GIF Aug (1)](https://github.com/273Do/BracketsJudgementTool/assets/114457271/1a766277-70e2-4c0e-892e-22333910a9c1)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
